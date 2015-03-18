@@ -10,5 +10,5 @@ A bacon rating is the degree of separation any actor in question is from [Kevin 
 
 `bundle install`
 `rake db:create`
-
+`rake db:migrate`
 
